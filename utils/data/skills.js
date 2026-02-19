@@ -1,5 +1,7 @@
 export const skillsData = [
   'HTML',
+  'Python',
+  'Django',
   'CSS',
   'Javascript',
   'Typescript',
@@ -19,6 +21,10 @@ export const skillsData = [
   'MaterialUI',
   'Nginx',
   'Strapi'
+  'Canva'
+'Cursor',
+
+
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -62,7 +68,7 @@ export const skillsData = [
   C
   C++
   C#
-  Python
+  
   Java
   Julia
   Matlab
